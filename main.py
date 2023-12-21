@@ -1,4 +1,4 @@
-# Raquel Hernandez and Alice Huynh 
+# Raquel Hernandez  
 # 3/14/2023
 # Pokemon Gym Battle
 import random 
